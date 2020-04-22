@@ -19,7 +19,7 @@ class TodoRepository {
     var todos = new List<TodoItem>();
     todos.add(
       new TodoItem(
-        id: "123456",
+        id: "1234567",
         title: "Amanhã",
         done: false,
         date: DateTime.now(),
@@ -33,7 +33,7 @@ class TodoRepository {
     var todos = new List<TodoItem>();
     todos.add(
       new TodoItem(
-        id: "123456",
+        id: "12345678",
         title: "Hoje",
         done: false,
         date: DateTime.now(),
@@ -42,7 +42,7 @@ class TodoRepository {
 
     todos.add(
       new TodoItem(
-        id: "1234567",
+        id: "1234567890",
         title: "Amanhã",
         done: false,
         date: DateTime.now(),
